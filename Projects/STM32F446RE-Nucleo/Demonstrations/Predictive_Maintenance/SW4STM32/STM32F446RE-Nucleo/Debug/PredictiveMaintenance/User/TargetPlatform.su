@@ -1,0 +1,9 @@
+TargetPlatform.c:277:13:Init_MEMS_Mics	24	static
+TargetPlatform.c:330:6:InitTargetPlatform	48	static
+TargetPlatform.c:384:6:InitMics	8	static
+TargetPlatform.c:395:6:DeInitMics	8	static
+TargetPlatform.c:427:6:LedOnTargetPlatform	8	static
+TargetPlatform.c:438:6:LedOffTargetPlatform	8	static
+TargetPlatform.c:448:6:LedToggleTargetPlatform	0	static
+TargetPlatform.c:458:10:UserFunctionForErasingFlash	40	static
+TargetPlatform.c:494:10:UserFunctionForSavingFlash	24	static
